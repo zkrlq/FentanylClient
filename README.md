@@ -57,7 +57,7 @@ This is a simple optimization panel written in bash, it has no options to damage
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This session is dedicated to step-by-step instructions on how to use Hydra Menu.
+This session is dedicated to step-by-step instructions on how to use the panel.
 
 ### Prerequisites
 
