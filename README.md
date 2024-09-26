@@ -61,9 +61,9 @@ This session is dedicated to step-by-step instructions on how to use the panel.
 
 ### Prerequisites
 
-Windows 64 Bits (idk if works on 32)
-Disable Anti Virus (its not a virus, just do it if you need to)
-Have WINRAR/7zip
+1. Windows 64 Bits (idk if works on 32) </br>
+2. Disable Anti Virus (its not a virus, just do it if you need to) </br>
+3. Have WINRAR/7zip
 
 ### Installation
  1. Download the RAR file, inside you will find all the files necessary to use our panel.
